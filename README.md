@@ -1,5 +1,7 @@
 **Closest Pair of Points in a 2D Plane**
+
 **Overview**
+
 This project implements an algorithm to find the closest pair of points in a given 2D plane, along with the computation of the elapsed time in nanoseconds. The solution utilizes the Divide and Conquer approach to achieve an optimal time complexity of O(n log n), making it more efficient than the brute force approach, which has a time complexity of O(n²).
 
 **Algorithm**
