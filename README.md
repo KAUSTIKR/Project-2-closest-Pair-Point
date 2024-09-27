@@ -13,9 +13,13 @@ The brute force method compares every pair of points and computes their Euclidea
 To improve efficiency, the Divide and Conquer method is implemented:
 
 Step 1: The points are sorted based on their x-coordinates.
+
 Step 2: The set of points is recursively divided into two halves until the base case is reached (when there are 3 or fewer points).
+
 Step 3: After finding the closest pairs in the left and right halves, the algorithm checks for pairs of points that may span the dividing line.
+
 Step 4: The algorithm compares the minimum distances found in both halves and across the dividing line.
+
 This approach improves the time complexity to O(n log n) by reducing the number of comparisons required.
 
 **Code Structure**
