@@ -1,4 +1,4 @@
-# Project-2-closest-Pair-Point
+# Project-2-Closest-Pair-Point
 
 **Closest Pair of Points in a 2D Plane**
 This project computes the closest pair of points in a given 2D plane and measures the elapsed time in nanoseconds.
